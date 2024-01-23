@@ -1,11 +1,142 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cuthulu</title>
-</head>
-<body>
-    
+    <head>
+        <style>
+          /* Estilos generales */
+          * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+          }
+      
+          /* Estilos para la barra superior */
+          .barra-superior {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: #333;
+            color: white;
+            height: 50px;
+          }
+      
+          .barra-superior a {
+            color: white;
+            text-decoration: none;
+            padding: 10px;
+          }
+      
+          /* Estilos para la imagen de cabecera */
+          .imagen-cabecera {
+            width: 100%;
+            height: 300px;
+            object-fit: cover;
+          }
+      
+          /* Estilos para la barra de navegación */
+          .barra-navegacion {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #eee;
+            height: 50px;
+          }
+      
+          .barra-navegacion a {
+            color: black;
+            text-decoration: none;
+            padding: 10px;
+          }
+      
+          /* Estilos para el contenido principal */
+          .contenido {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+          }
+      
+          .titulo-principal {
+            font-size: 24px;
+            font-weight: bold;
+            text-align: center;
+          }
+      
+          .imagen-grande {
+            width: 100%;
+            height: 400px;
+            object-fit: cover;
+            position: sticky;
+            top: 0;
+          }
+      
+          .titulo-secundario {
+            font-size: 18px;
+            font-weight: bold;
+            margin-top: 20px;
+          }
+      
+          .texto {
+            font-size: 16px;
+            line-height: 1.5;
+            margin-top: 10px;
+          }
+      
+          /* Estilos para la barra inferior */
+          .barra-inferior {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: #333;
+            color: white;
+            height: 50px;
+          }
+      
+          .barra-inferior a {
+            color: white;
+            text-decoration: none;
+            padding: 10px;
+          }
+        </style>
+      </head>
+      <body>
+        <!-- Barra superior con inicio y contacto -->
+        <div class="barra-superior">
+          <a href="#">Inicio</a>
+          <a href="#">Contacto</a>
+        </div>
+      
+        <!-- Imagen de cabecera -->
+        <img src="../img/banner.png" alt="Imagen de cabecera" class="imagen-cabecera">
+      
+        <!-- Barra de navegación con cuatro enlaces -->
+        <div class="barra-navegacion">
+          <a href="#">Página 1</a>
+          <a href="#">Página 2</a>
+          <a href="#">Página 3</a>
+          <a href="#">Página 4</a>
+        </div>
+      
+        <!-- Contenido principal -->
+        <div class="contenido">
+          <!-- Título principal centrado y en negrita -->
+          <h1 class="titulo-principal">Este es el título principal</h1>
+      
+          <!-- Imagen grande que se queda a la derecha al hacer scroll -->
+          <img src="../img/banshee1.png" alt="Imagen grande" class="imagen-grande">
+      
+          <!-- Título secundario más pequeño -->
+          <h2 class="titulo-secundario">Este es el título secundario</h2>
+      
+          <!-- Texto que se queda a la izquierda al hacer scroll -->
+          <p class="texto">Este es el texto que describe el contenido de la página. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis leo quis nisi consequat tincidunt. Etiam id lorem quis augue tincidunt tincidunt. Fusce vitae nisi quis nisl sagittis aliquet. Donec quis massa sit amet leo tincidunt tristique. Morbi quis nisl quis nunc luctus aliquam. Nulla facilisi. Mauris quis elit quis lorem tincidunt tincidunt. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed quis nisl quis nunc luctus aliquam. Nulla facilisi. Mauris quis elit quis lorem tincidunt tincidunt. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+        </div>
+      
+        <!-- Barra inferior con inicio de la página y nombres de los creadores -->
+        <div class="barra-inferior">
+          <a href="#">Inicio de la página</a>
+          <p>Creado por Bing y el usuario</p>
+        </div>
 </body>
 </html>
