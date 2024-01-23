@@ -1,1 +1,19 @@
-(Rellenar)
+Volador
+-	Banshee de Montaña
+Normal:
+Los banshee de montaña se caracterizan por ser animales voladores y de enormes tamaños, de unos 14 metros de longitud. Su aspecto es similar a un reptil y tiene la capacidad de establecer un vínculo especial con los Na´vi, a quienes permiten subir a su lomo para recorrer juntos largas distancias y participar en batallas.
+Modificado:
+En lo más alto de las majestuosas montañas, ondean los Banshee, criaturas aladas de dimensiones colosales que desafían la gravedad con sus 14 metros de envergadura. Su apariencia, más cercana a la de un ancestral reptil, es un espectáculo en sí misma. Pero la verdadera maravilla reside en su capacidad única para forjar vínculos especiales con los Na'vi, una conexión que trasciende los límites entre especies.
+
+-	Gran Leonopteryx
+Normal:
+El leonopteryx es mucho más grande que el Banshee, de color rojo y amarillo con rayas negras y unas crestas azules muy afiladas en la cabeza, que son usadas como armas de ataque. Este animal es tan importante en la cultura Na'vi, que los pocos miembros que consiguen establecer un vínculo con toruk son llamados Toruk Makto ("jinete de última sombra) y automáticamente pasan a ser muy respetables y admirados.
+Modificado:
+Adentrándonos en la majestuosidad de Pandora, nos topamos con el leonopteryx, una asombrosa criatura que eclipsa incluso al imponente Banshee en tamaño y esplendor. Su espléndido pelaje de tonos rojos y amarillos, decorado con audaces rayas negras, crea un espectáculo visual único en la naturaleza. Pero lo más impresionante son las crestas azules que adornan su cabeza, afiladas como las armas de un guerrero listo para el combate.
+-	Lagarto abanico
+Normal:
+El lagarto abanico es una especie de pequeño reptil volador, omnívoro y nocturno, que cuando está quieto no es muy llamativo, pero cuando se agita despliega unas alas que simulan un abanico chino de tipo bioluminiscente, que lo convierte en un hermoso animal. El lagarto abanico se ubica en los pantanos donde se alimenta. Está inspirado en los distintos tipos de lagartos que conocemos en la Tierra, con la particularidad de estas alas que se mueven como las hélices de un helicóptero.
+Modificado:
+En los misteriosos pantanos de un lejano rincón del universo, habita el fascinante lagarto abanico. A primera vista, este pequeño reptil nocturno no llama demasiado la atención, su apariencia discreta lo camufla entre la maleza. Sin embargo, cuando la quietud cede paso a la agitación, el verdadero espectáculo comienza.
+En un despliegue de maravilla bioluminiscente, el lagarto abanico despliega sus alas, emulando con maestría la gracia de un abanico chino. Las alas, iluminadas por una luz tenue y mágica, transforman al reptil en una obra de arte viviente.
+
