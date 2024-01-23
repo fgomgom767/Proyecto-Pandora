@@ -1,4 +1,4 @@
-Volador
+Volador_____________________________
 -	Banshee de Montaña
 Normal:
 Los banshee de montaña se caracterizan por ser animales voladores y de enormes tamaños, de unos 14 metros de longitud. Su aspecto es similar a un reptil y tiene la capacidad de establecer un vínculo especial con los Na´vi, a quienes permiten subir a su lomo para recorrer juntos largas distancias y participar en batallas.
@@ -17,3 +17,69 @@ Modificado:
 En los misteriosos pantanos de un lejano rincón del universo, habita el fascinante lagarto abanico. A primera vista, este pequeño reptil nocturno no llama demasiado la atención, su apariencia discreta lo camufla entre la maleza. Sin embargo, cuando la quietud cede paso a la agitación, el verdadero espectáculo comienza.
 En un despliegue de maravilla bioluminiscente, el lagarto abanico despliega sus alas, emulando con maestría la gracia de un abanico chino. Las alas, iluminadas por una luz tenue y mágica, transforman al reptil en una obra de arte viviente.
 
+Terrestre_____________________________________
+-	Thanator:
+Normal:
+El thanator, o palulukan, es una temible criatura que habita en Pandora y su nombre en Na´vi significa “portador de miedo de boca seca”. Se le clasifica como el depredador terrestre con mayor ferocidad, por lo que puede pelear con criaturas de grandes tamaños. Este animal de Avatar es una mezcla entre una pantera y un león, capaz de generar miedo a cualquiera.
+Modificado:
+En las profundidades de Pandora, el thanator, también conocido como palulukan, se alza como una criatura de pesadilla, cuyo nombre en la lengua Na'vi evoca temor: "portador de miedo de boca seca". Esta bestia feroz se erige como el depredador terrestre supremo, desafiando incluso a criaturas de inmensa envergadura en combates de titanes.
+-	Viperlobo
+Normal:
+El viperlobo, es una pequeña criatura de color negro azulado inspirada en las hienas y los lobos. Es de torso delgado, pero poderoso, con seis patas y tres dedos que le permiten hacer lagos recorridos. Se presenta como un animal gregario que suele cazar en grupo.
+El viperlobo, puede escalar o moverse muy bien desde el suelo, y también en sus características encontramos que carece de pelo, posee una especie de armadura alrededor de su cuello, con mandíbulas fuertes y una cola que tiene forma de paleta.
+Modificado: 
+En los rincones más salvajes de la imaginación, surge el viperlobo, una pequeña maravilla de la naturaleza en tonos de negro azulado, tomando inspiración de la astucia de las hienas y la gracia de los lobos. Este ser de torso esbelto pero poderoso se presenta como una síntesis única de adaptación y camaradería en el reino animal.
+Con seis patas hábiles y tres dedos que dejan huellas pintorescas en su paso, el viperlobo se desplaza con la elegancia de un bailarín en su entorno. Su pelaje ausente revela una piel que, en lugar de pelo, está resguardada por una armadura alrededor de su cuello, dotándolo de una apariencia intrépida y futurista.
+-	Titanothere cabezamartillo
+Normal:
+Este animal de Pandora está inspirado en los brontotéridos, unos animales parientes lejanos de los rinocerontes que se extinguieron hace millones de años. En la película se presentan como criaturas de unos 11 metros de largo, con seis patas y una armadura en su cuerpo que los convierte en temibles criaturas para la pelea.
+Modificado:
+En los anales de Pandora, emerge una espectacular creación inspirada en los brontotéridos, parientes distantes de los rinocerontes que se extinguieron hace eones. Estas majestuosas criaturas, presentadas en la película, se alzan imponentes con aproximadamente 11 metros de longitud, dotadas de una forma única y características que las hacen verdaderamente notables en el reino de la fantasía.
+Con seis patas que sostienen su colosal figura, estos seres encarnan una versión evolucionada de la antigua y poderosa estirpe de los brontotéridos. La presencia de una armadura en su cuerpo añade un aura temible, transformándolos en criaturas preparadas para la batalla. Esta armadura no solo les confiere una apariencia intimidante, sino que también les brinda una defensa robusta en su entorno salvaje.
+-	Direhorse
+Normal:
+Los direhorses son animales que aparecen en la primera de las dos entregas de Avatar, cauterizados por tener hábitos nectarívoros y por presentar cierto parecido con los caballos. Tienen cuellos largos y cabezas pequeñas con dos antenas. Son de gran tamaño y, como muchos otros animales de Avatar, tienen seis patas. Gracias a sus fuertes extremidades, pueden recorrer largas distancias a gran velocidad.
+Modificado:
+En la exuberante y cautivadora Pandora, los direhorses se erigen como criaturas fascinantes, deslumbrando con su elegante mezcla de gracia y velocidad. Presentados en la primera entrega de Avatar, estos majestuosos seres nectarívoros llevan consigo la impronta de la maravilla biológica en este mundo alienígena.
+
+Con cuellos largos y cabezas diminutas coronadas por dos antenas, los direhorses despiertan reminiscencias equinas, aunque su singularidad va mucho más allá. Su cuerpo de gran tamaño, adornado con seis patas robustas, les confiere una apariencia imponente y un poderío físico que se traduce en la capacidad de recorrer vastas distancias a velocidades impresionantes.
+-	Hexápodo
+Normal:
+El hexápodo es una hermosa criatura herbívora que habita en varios de los espacios de Pandora. Es una especie muy frágil y suele ser cazada por diversos depredadores. Su forma es similar a una gacela o antílope, pero con seis patas. El cuerpo es de color azul con una combinación de rayas blancas y amarillas. En la cabeza posee una estructura en forma de abanico, retráctil y con dibujos que simulan unos grandes ojos.
+Modificado:
+En los misteriosos confines de Pandora, el hexápodo se destaca como una joya frágil y hermosa, una creación herbívora que danza en la armonía de la naturaleza. Aunque su gracia y elegancia evocan la imagen de una gacela o antílope, la singularidad del hexápodo radica en sus seis patas, una obra maestra evolutiva que lo distingue en el vasto tapiz de la fauna pandoriana.
+Su cuerpo, teñido de un azul resplandeciente, se adorna con cautivadoras rayas blancas y amarillas, creando una sinfonía de colores que captura la esencia misma de la belleza en la naturaleza.
+
+Acuático______________________________________
+-	Tulkun
+Normal:
+Los tulkun son animales marinos de Avatar, de modo que forman parte de la fauna de Pandora que aparece en la segunda película. Estas criaturas extraordinarias de grandes dimensiones se asemejan a las ballenas jorobadas (Megaptera novaeangliae), las cuales se encuentran entre los animales más grandes del mundo, ya que cuentan con dimensiones de 14 a 15 metros de longitud y unas 40 toneladas de peso.
+Los tulkun establecen un vínculo muy particular con los miembros del clan Metkayina y se caracterizan por ser muy inteligentes y bastante sensibles.
+Modificado:
+En las profundidades misteriosas de Pandora, emergen los tulkun, majestuosas criaturas marinas que protagonizan la segunda entrega de Avatar. Estos seres extraordinarios, de proporciones colosales, nos recuerdan a las ballenas jorobadas de la Tierra, pero con una magnificencia que trasciende los límites de la realidad.
+Con dimensiones que rivalizan con las ballenas jorobadas terrestres, los tulkun se despliegan majestuosos, alcanzando longitudes asombrosas de 14 a 15 metros y un peso imponente de unas 40 toneladas.
+
+-	Akula
+Normal:
+Akula es una criatura feroz y difícil de atrapar. Este animal se ha inspirado en el género Dunkleosteus, un grupo de peces acorazados extintos hace millones de años y que medían casi 9 metros. Además, la cabeza y los dientes del akula están inspirados en serpientes y tiburones, por lo que en su conjunto representa a un animal realmente temible.
+Modificado:
+En los recovecos más oscuros de la imaginación surge el akula, una criatura feroz y esquiva que ha tomado inspiración de las profundidades de la historia evolutiva. Este ser, modelado a partir del género Dunkleosteus, un grupo de peces acorazados que gobernaron los mares hace millones de años con sus casi 9 metros de longitud, encarna la esencia de la ferocidad prehistórica.
+La cabeza y los dientes del akula, por otro lado, rinden homenaje a las serpientes
+-	Ilu
+Normal:
+El ilu es una criatura marina muy similar a los plesiosaurios, que fueron animales marinos que habitaron la Tierra hace millones de años. Es un animal largo, con seis aletas, cuatro ojos y una cola que tiene forma de timón bastante similar a la que tenía el animal real. Todas estas características lo convierten en un ser muy ágil.
+En la película aparece como un animal muy inteligente, sociable y de fácil domesticación por parte de los clanes que viven en los arrecifes.
+Modificado:
+El ilu, una majestuosa criatura marina que parece haber emergido directamente de las eras antiguas de la Tierra, comparte similitudes sorprendentes con los plesiosaurios extintos. Este ser, reminiscente de esos antiguos gigantes del océano, se despliega con una elegancia y agilidad que capturan la esencia de la maravilla biológica en Pandora.
+Con su largo cuerpo y seis aletas, el ilu navega los mares con la gracia de un bailarín acuático, recordando a los plesiosaurios que un día reinaron los océanos de nuestro propio planeta. Los cuatro ojos otorgan una visión panorámica, mientras que su cola en forma de timón agrega precisión a sus movimientos, convirtiéndolo en un ser asombrosamente ágil en su entorno acuático.
+
+Hibrido_________________________________________
+-	Skimwing
+Normal:
+Se conoce como skimwing al pez volador al que se vinculan los guerreros del clan Metkayina, por lo que es otro de los animales marinos de Avatar. Se caracteriza por presentar una forma alargada y fina, similar a la de un torpedo, así como por tener unas potentes mandíbulas y grandes alas anaranjadas. Esta forma de su cuerpo no es casual, pues se trata de un animal muy veloz, tanto nadando como volando.
+La forma de su cabeza y, especialmente, de su mandíbula recuerdan a la del gavial.
+
+Modificado:
+El skimwing, un prodigio de la vida marina en Pandora, se presenta como un pez volador que forja vínculos fundamentales con los intrépidos guerreros del clan Metkayina. Su apariencia única, modelada con destreza evolutiva, da lugar a una maravilla acuática que desafía las convenciones de la fauna submarina.
+Este ser alargado y esbelto, con una silueta que evoca la aerodinámica de un torpedo, destaca por su potente mandíbula y enormes alas anaranjadas. La forma de su cuerpo no es mera coincidencia, ya que el skimwing se revela como un maestro de la velocidad tanto en el agua como en el aire. Imagina sus alas desplegándose como velas naranjas mientras corta los cielos y las aguas de Pandora con una agilidad impresionante.
+La cabeza del skimwing, con su mandíbula distintiva, nos evoca la apariencia elegante y especializada de un gavial.
