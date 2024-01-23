@@ -1,0 +1,6 @@
+.texto_inicio {
+    text-shadow: 2px 2px 4px #000000;
+    text-align: justify;
+    line-height: 1,5;
+    padding: 10px;
+}
