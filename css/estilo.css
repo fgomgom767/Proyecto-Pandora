@@ -56,4 +56,8 @@ a:hover {
     padding: auto;
     margin: auto;
     height: auto;
+    image-rendering: auto;
+}
+body{
+    margin: 0;
 }
