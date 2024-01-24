@@ -4,3 +4,57 @@
     line-height: 1,5;
     padding: 10px;
 }
+.lineas {
+    border: 15cm;
+    height: 30px;
+    margin: 50%;
+    background-color: aquamarine;
+}
+.menu {
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.menu li {
+    margin-right: 20px;
+}
+
+.submenu ul {
+    display: none;
+    position: absolute;
+    background-color: #333;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+.submenu:hover ul {
+    display: block;
+}
+
+.submenu li {
+    display: block;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+.background {
+    background-image: url(../img/fondo\ inicio.jpg);
+    position: fixed;
+    top: 0; 
+    left: 0;
+    width: 100px; 
+    height: 100px; 
+    z-index: 999;
+}
