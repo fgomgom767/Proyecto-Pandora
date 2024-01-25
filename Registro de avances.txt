@@ -11,3 +11,15 @@ En este archivo se reflejan los roles que tendrá cada uno asignado y se registr
 -Emilio: Encargado del diseño de los index pag2.html, pag3.html, pag4.html y pag5.html. Investigando para realizar animaciones en los diferentes index.
 
 -Marcos: Falta el día de hoy (Aún no se ha unido al repositorio)
+
+2024/01/25----------------------------------------------------------------------------------------------------
+
+-Cristian: Diseño y personalización del index.html y de la pag1.html. Hoy su trabajo es finalizar el diseño de index y ayudar a Jose Manuel a añadir el contenido de la web.
+
+-Jose Manuel: Buscador de información de los distintos textos que se reflejarán en todas las páginas de la página web. Hoy añadirá toda la información reunida y preparada en los diferentes index.
+
+-Francisco Javier: Jefe de equipo, hoy se ha dedicado a la asignación de nuevos roles al equipo y editor de imagenes. Hoy ayudará a Emilio con el diseño e investigación de animaciones dentro de los index.
+
+-Emilio: Encargado del diseño de los index pag2.html, pag3.html, pag4.html y pag5.html. JUnto con FRan terminarán el diseño de los index e investigará el añadir animaciones a la web.
+
+-Marcos: Encargado de vincular imagenes de la nube con los diferentes index. Hoy se encargará de subir todas las imagenes a la nube e insertará las imágenes en los index.
