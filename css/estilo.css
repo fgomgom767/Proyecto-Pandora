@@ -61,3 +61,15 @@ a:hover {
 body{
     margin: 0;
 }
+
+.texto{
+    font-family: 'Arial', sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 10px;
+}
+.texto_titulo {
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 1
+}
