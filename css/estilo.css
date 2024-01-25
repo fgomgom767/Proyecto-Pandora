@@ -50,7 +50,7 @@ a:hover {
     text-decoration: underline;
 }
 .background {
-    background-image: url(../img/fondo_inicio.jpg);
+    background-image: url();
     background-size: cover;
     background-repeat: no-repeat;
     padding: auto;
