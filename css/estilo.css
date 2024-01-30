@@ -172,3 +172,19 @@ body{
     padding: 10px;
   }
 >>>>>>> c384bb3a41a024b55a29f4f5d567d49735bfbd39
+.contenidoPag5 {
+  display: flex;
+  align-items: center;
+}
+
+.imagen-texto-containerPag5 {
+  margin-right: 20px; /* Ajusta el margen según tus preferencias */
+}
+
+.imagen-cabeceraPag5 {
+  max-width: 100%; /* Asegura que la imagen no exceda su contenedor */
+}
+
+.textoPag5 {
+  flex: 1; /* Hace que el texto ocupe todo el espacio disponible */
+}
