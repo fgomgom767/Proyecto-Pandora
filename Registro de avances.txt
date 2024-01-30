@@ -23,3 +23,15 @@ En este archivo se reflejan los roles que tendrá cada uno asignado y se registr
 -Emilio: Encargado del diseño de los index pag2.html, pag3.html, pag4.html y pag5.html. JUnto con FRan terminarán el diseño de los index e investigará el añadir animaciones a la web.
 
 -Marcos: Encargado de vincular imagenes de la nube con los diferentes index. Hoy se encargará de subir todas las imagenes a la nube e insertará las imágenes en los index.
+
+2024/01/30----------------------------------------------------------------------------------------------------
+
+-Cristian: Hoy ha terminado el diseño del index.html y la pag1.html
+
+-Jose Manuel: Ha añadido todo el texto que ha buscado e investigado en todos los index y ha optimizado el formato de texto para que sea mas agradable visualmente
+
+-Francisco Javier: Ha optimizado el código y los estilos de los index pag4 y pag5 haciendo una mejora estética y ha arreglado algunos errores que generaban algunos estilos en estilos.css
+
+-Emilio: Ha seguido investigando en como hacer animaciones pero ha tenido un error que lo ha dejado paralizado y ha estado todo el tiempo intentando solucionar ese error
+
+-Marcos: Ha terminado de subir todas las imagenes (O la mayoría) a la nube y ha insertado todas las imagenes a los diferentes index, tambíen ha ayudado a Emilio a insertar parte de su código en los index.
