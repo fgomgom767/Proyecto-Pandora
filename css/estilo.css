@@ -10,6 +10,33 @@
     margin: 50%;
     background-color: aquamarine;
 }
+
+.esquina {
+  position: fixed;
+  padding: 15px;
+  color: white;
+}
+
+.esquina.superior-izquierda {
+  top: 0;
+  left: 0;
+}
+
+.esquina.superior-derecha {
+  top: 0;
+  right: 0;
+}
+
+.esquina.inferior-izquierda {
+  bottom: 0;
+  left: 0;
+}
+
+.esquina.inferior-derecha {
+  bottom: 0;
+  right: 0;
+}
+
 body {
   font-family: 'Arial', sans-serif;
   margin: 0;
