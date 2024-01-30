@@ -10,45 +10,98 @@
     margin: 50%;
     background-color: aquamarine;
 }
+
+.esquina {
+  position: fixed;
+  padding: 20px;
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  transition: background-color 0.3s, transform 0.3s;
+  cursor: pointer;
+}
+
+.esquina:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+  transform: scale(1.05);
+}
+
+.esquina.superior-izquierda {
+  top: 180px;
+  left: 220px;
+  background-color: #3498db;
+}
+
+.esquina.superior-derecha {
+  top: 180px;
+  right: 220px;
+  background-color: #e74c3c;
+}
+
+.esquina.inferior-izquierda {
+  bottom: 180px;
+  left: 220px;
+  background-color: #2ecc71;
+}
+
+.esquina.inferior-derecha {
+  bottom: 180px;
+  right: 220px;
+  background-color: #f39c12;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  background-color: #f5f5f5;
+}
+
 .menu {
-    display: flex;
-    justify-content: space-between;
+  background-color: #333;
+  padding: 10px;
+  text-align: center;
+}
+
+.menu a {
+  color: white;
+  text-decoration: none;
 }
 
 .menu ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-    display: flex;
+  list-style: none;
+  padding: 0;
+  margin: 0;
 }
 
 .menu li {
-    margin-right: 20px;
+  display: inline-block;
+  margin-right: 20px;
+}
+.submenu {
+  position: relative;
 }
 
 .submenu ul {
-    display: none;
-    position: absolute;
-    background-color: #333;
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: #333;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+  z-index: 1;
 }
 
 .submenu:hover ul {
-    display: block;
+  display: block;
 }
 
 .submenu li {
-    display: block;
+  display: block;
+  padding: 10px;
 }
 
-a {
-    color: white;
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
-}
 .background {
     background-image: url();
     background-size: cover;
@@ -58,11 +111,7 @@ a:hover {
     height: auto;
     image-rendering: auto;
 }
-body{
-    margin: 0;
-}
 
-<<<<<<< HEAD
 .texto{
     font-family: 'Arial', sans-serif;
   font-size: 16px;
@@ -74,117 +123,122 @@ body{
     text-align: center;
     text-shadow: 4px 8px 8px rgba(0, 0, 0, 0.3);
 }
-=======
-/* Estilos generales */
-* {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-  }
 
-  /* Estilos para la barra superior */
-  .barra-superior {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    background-color: #333;
-    color: white;
-    height: 50px;
-  }
 
-  .barra-superior a {
-    color: white;
-    text-decoration: none;
-    padding: 10px;
-  }
-
-  /* Estilos para la imagen de cabecera */
-  .imagen-cabecera {
-    width: 100%;
-    height: 300px;
-    object-fit: cover;
-  }
-
-  /* Estilos para la barra de navegación */
-  .barra-navegacion {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: #eee;
-    height: 50px;
-  }
-
-  .barra-navegacion a {
-    color: black;
-    text-decoration: none;
-    padding: 10px;
-  }
-
-  /* Estilos para el contenido principal */
-  .contenido {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
-  }
-
-  .titulo-principal {
-    font-size: 24px;
-    font-weight: bold;
-    text-align: center;
-  }
-
-  .imagen-grande {
-    width: 100%;
-    height: 400px;
-    object-fit: cover;
-    position: sticky;
-    top: 0;
-  }
-
-  .titulo-secundario {
-    font-size: 18px;
-    font-weight: bold;
-    margin-top: 20px;
-  }
-
-  .texto {
-    font-size: 16px;
-    line-height: 1.5;
-    margin-top: 10px;
-  }
-
-  /* Estilos para la barra inferior */
-  .barra-inferior {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    background-color: #333;
-    color: white;
-    height: 50px;
-  }
-
-  .barra-inferior a {
-    color: white;
-    text-decoration: none;
-    padding: 10px;
-  }
->>>>>>> c384bb3a41a024b55a29f4f5d567d49735bfbd39
-.contenidoPag5 {
-  display: flex;
-  align-items: center;
+.barra-superiorPag5,
+.barra-navegacionPag5,
+.barra-inferiorPag5 {
+  background-color: #333;
+  color: white;
+  padding: 10px;
+  text-align: center;
 }
 
-.imagen-texto-containerPag5 {
-  margin-right: 20px; /* Ajusta el margen según tus preferencias */
+.barra-superiorPag5 a,
+.barra-navegacionPag5 a,
+.barra-inferiorPag5 a {
+  color: white;
+  text-decoration: none;
+  margin: 0 15px;
 }
 
 .imagen-cabeceraPag5 {
-  max-width: 100%; /* Asegura que la imagen no exceda su contenedor */
+  width: 100%;
+}
+
+.titulo-principalPag5 {
+  text-align: center;
+  font-weight: bold;
+  font-size: 2em;
+  margin: 20px 0;
+}
+
+.contenidoPag5 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+
+.imagen-texto-containerPag5 {
+  flex: 1;
+}
+
+.imagen-texto-containerPag5 img {
+  max-width: 100%;
+  height: auto;
 }
 
 .textoPag5 {
-  flex: 1; /* Hace que el texto ocupe todo el espacio disponible */
+  flex: 1;
+  max-width: 60%;
+  margin-left: 20px;
+  line-height: 1.6;
+  word-wrap: break-word;
+}
+
+.barra-inferiorPag5 p {
+  margin: 0;
+}
+
+
+.barra-superiorPag4,
+.barra-navegacionPag4,
+.barra-inferiorPag4 {
+  background-color: #333;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+.barra-superiorPag4 a,
+.barra-navegacionPag4 a,
+.barra-inferiorPag4 a {
+  color: white;
+  text-decoration: none;
+  margin: 0 15px;
+}
+
+.imagen-cabeceraPag4 {
+  width: 100%;
+}
+
+.titulo-principalPag4 {
+  text-align: center;
+  font-weight: bold;
+  font-size: 2em;
+  margin: 20px 0;
+}
+
+.contenidoPag4 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+
+.imagen-texto-containerPag4 {
+  flex: 1;
+}
+
+.imagen-texto-containerPag4 img {
+  max-width: 100%;
+  height: auto;
+}
+
+.textoPag4 {
+  flex: 1;
+  max-width: 60%;
+  margin-left: 20px;
+  line-height: 1.6;
+  word-wrap: break-word;
+}
+
+.barra-inferiorPag4 p {
+  margin: 0;
+}
+
+.titulo-secundarioPag4 {
+  font-size: 1.5em;
+  margin-top: 20px;
 }
