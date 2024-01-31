@@ -287,3 +287,20 @@ body {
   padding: 10px;
   text-align: center;
 }
+
+.contenido-centralizado {
+  width: 70%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.overlay {
+  position: fixed;
+  margin: 0 auto;
+  left: 12.5%;
+  right: 12.5%;
+  width: 75%;
+  height: 100%;
+  z-index: -1;
+  background-color: hsla(204, 70%, 53%, 0.877); /* Color de fondo semi-transparente (en este caso, rojo) */
+}
