@@ -242,3 +242,34 @@ body {
   font-size: 1.5em;
   margin-top: 20px;
 }
+
+.fondo-pag1{
+  margin: 0;
+  padding: 0;
+  background-image: url('https://www.gratistodo.com/wp-content/uploads/2018/02/Avatar-Wallpapers-4.jpg');
+  background-size: cover; 
+}
+.fondo-pag2{
+  margin: 0;
+  padding: 0;
+  background-image: url('https://images2.alphacoders.com/106/1062925.jpg'); 
+  background-size: cover; 
+  background-attachment: fixed; 
+}
+.fondo-pag3{
+  margin: 0;
+  padding: 0;
+  background-image: url('https://images2.alphacoders.com/106/1062925.jpg');
+  background-size: cover; 
+  background-attachment: fixed; 
+}
+.fondo-pag4{
+  margin: 0;
+  padding: 0;
+  background-image: url('https://images4.alphacoders.com/106/1062808.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+}
+.fondo-pag5{
+  
+}
