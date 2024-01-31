@@ -288,13 +288,19 @@ body {
   text-align: center;
 }
 
-.fondo-contenedor {
+.contenido-centralizado {
+  width: 70%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.overlay {
   position: fixed;
-  top: 0;
-  left: 50%;
-  transform: translateX(-50%);
-  width: 80%; /* Ajusta el ancho del contenedor central */
-  height: 100vh; /* Ajusta la altura del contenedor central al 100% del viewport */
-  background-color: rgba(255, 255, 255, 0.8); /* Color de fondo fijo con opacidad */
-  z-index: 0; /* Coloca el contenedor en la capa inferior */
+  margin: 0 auto;
+  left: 12.5%;
+  right: 12.5%;
+  width: 75%;
+  height: 100%;
+  z-index: -1;
+  background-color: hsla(204, 70%, 53%, 0.877); /* Color de fondo semi-transparente (en este caso, rojo) */
 }
