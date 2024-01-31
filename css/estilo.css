@@ -102,16 +102,6 @@ body {
   padding: 10px;
 }
 
-.background {
-    background-image: url();
-    background-size: cover;
-    background-repeat: no-repeat;
-    padding: auto;
-    margin: auto;
-    height: auto;
-    image-rendering: auto;
-}
-
 .texto{
     font-family: 'Arial', sans-serif;
   font-size: 16px;
@@ -275,6 +265,14 @@ body {
   background-image: url('https://i.imgur.com/6xcOauU.jpeg');
   background-size: cover;
   background-attachment: fixed;
+}
+
+.fondo-index{
+  margin: 0;
+  padding: 0;
+  background-image: url('https://w.forfun.com/fetch/35/35036a6aa32d0fe6794f6e3b5c702b7e.jpeg'); /* Reemplaza 'ruta-de-tu-imagen.jpg' con la ruta de tu imagen de fondo */
+  background-size: cover; /* Ajusta el tamaño del fondo para cubrir toda la ventana del navegador */
+  background-attachment: fixed; /* Fija el fondo para que no se desplace al hacer scroll o hacer zoom */
 }
 
 .barra-inferior {
