@@ -126,8 +126,7 @@ body {
 
 
 .barra-superiorPag5,
-.barra-navegacionPag5,
-.barra-inferiorPag5 {
+.barra-navegacionPag5 {
   background-color: #333;
   color: white;
   padding: 10px;
@@ -136,7 +135,7 @@ body {
 
 .barra-superiorPag5 a,
 .barra-navegacionPag5 a,
-.barra-inferiorPag5 a {
+.barra-inferior a {
   color: white;
   text-decoration: none;
   margin: 0 15px;
@@ -177,14 +176,14 @@ body {
   word-wrap: break-word;
 }
 
-.barra-inferiorPag5 p {
+.barra-inferior p {
   margin: 0;
 }
 
 
 .barra-superiorPag4,
 .barra-navegacionPag4,
-.barra-inferiorPag4 {
+.barra-inferior {
   background-color: #333;
   color: white;
   padding: 10px;
@@ -193,7 +192,7 @@ body {
 
 .barra-superiorPag4 a,
 .barra-navegacionPag4 a,
-.barra-inferiorPag4 a {
+.barra-inferior a {
   color: white;
   text-decoration: none;
   margin: 0 15px;
@@ -234,7 +233,7 @@ body {
   word-wrap: break-word;
 }
 
-.barra-inferiorPag4 p {
+.barra-inferior p {
   margin: 0;
 }
 
@@ -272,4 +271,15 @@ body {
 }
 .fondo-pag5{
   
+}
+
+.barra-inferior {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: #333;
+  color: white;
+  padding: 10px;
+  text-align: center;
 }
