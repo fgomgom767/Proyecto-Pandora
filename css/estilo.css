@@ -108,11 +108,6 @@ body {
   line-height: 1.5;
   margin-bottom: 10px;
 }
-.texto_titulo {
-    font-weight: bold;
-    text-align: center;
-    text-shadow: 4px 8px 8px rgba(0, 0, 0, 0.3);
-}
 
 
 .barra-superiorPag5,
@@ -301,4 +296,24 @@ body {
   height: 100%;
   z-index: -1;
   background-color: hsla(204, 70%, 53%, 0.877); /* Color de fondo semi-transparente (en este caso, rojo) */
+}
+
+.texto-blanco {
+  text-align: left;
+  color: white;
+}
+
+@font-face {
+  font-family: 'Papyrus';
+  src: url('fonts/Papyrus.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.fuente-titulo {
+  font-family: 'Papyrus', sans-serif;
+  font-weight: bold;
+  text-align: center;
+  color: #fff;
+  text-shadow: 4px 8px 8px rgba(0, 0, 0, 0.3);
 }
